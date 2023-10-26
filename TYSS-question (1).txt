@@ -1,0 +1,25 @@
+Explain Stale element reference exception/how to handle it?
+2)what are all the oops concept used in selenium?
+3)Where you have used method overloading in selenium?
+4)Where you have used method overridding in selenium?
+5)Where you have used encapsulation in selenium?
+6)Where you have used inheritance  in selenium?
+7)Where you have used Abstraction in selenium?
+8)why are you upcasting to webdriver instead of remotewebdriver?
+9)what are the challenges faced in selenium?how to you have over come on it?
+10)Parallel execution explanation?
+11)@parameter annotation explanation?
+12)how do handle file upload and file download popup?
+13)how do you get the location in selenium?
+14)how do you handle scrolling in selenium?
+15)how do you compare actual and expected result?
+16)methods of assert class?
+17))methods of webdriver,webElement?
+18)how many popup's?how to handle?
+19)how to run only failed test cases in selenium?
+20)how to perform batch execution in selenium?
+21)how to handle dynamic web table?
+22)how to retrieve the data from database using jdbc?
+23)where you have used map,list,set in selenium?
+24)maven and its advantages
+25)github and its advantages

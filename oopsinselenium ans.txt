@@ -1,0 +1,81 @@
+2) In selenium we used oops concept like Polymorphism,encapsulation,inheritance and abstraction
+ 
+
+3)method overloading in selenium
+
+>in framework we use method overloading in 
+*all the methods of actions class
+*move to element(),context click(),double click() etc
+*add arguments and assert class() are also examples
+
+realtime---phonepe (in phonepe we can search contact using both name and number)
+
+
+4)method overriding in selenium
+
+>in framework we use methodoverriding in
+*ITest listener methods are overrided in listener implementation class
+*retry analyzer
+*  all the methods of search context ,webdriver & webelement i/f are overided in remote webdriver
+
+
+realtime----updation of any software
+
+
+5)encapsulation in selenium
+
+>in framework we use encapsulation 
+* to create pom class(in pom class wby making variable as private
+
+
+realtime----ATM pin generation,gmail application login
+
+
+6)inheritance in selenium
+
+>We are using hirerarchical inheritance in our framework
+* Baseclass we use inheritance because every class is extends from baseclass for code reusability
+* architecture of selenium is Inheritance
+
+
+realtime------The class 'Car' inherits its properties from the class 'Automobiles' which inherits some of its properties from another class 'Vehicles
+* child and parents, all the properties of father are inherited by his son. ...
+
+
+7)Abstraction in selenium
+
+>in framework we use Abstraction 
+*webdriver driver=new Chromedriver();
+we know how all methods of webdriver funtionality but we dont know implementation
+
+realtime----Atm machine,Mobile etc
+
+
+8) upcasting to webdriver insted of remotewebdriver
+
+>webDriver i/f is implemented in Remote Webdriver class
+remote webdriver class implements in other interfaces like javascriptexecutor,Takesscreenshot etc  so to avoid unnecessary methods .
+
+
+9)challenges faced in selenium ??how to overcome it
+
+>cross browser testing
+>scalability testingh
+>Synchronizing Events
+>Handling Dynamic Elements
+>Pop up and Alert Handling
+>Captcha or OTP Handling
+>Limited Reporting
+>Timeout or Sync Issue
+> Page Loading Issues
+>Multi-Tab Testing
+>Integration with different software
+>Framework enhancement & maintenance
+>Smart locators
+
+>
+
+
+
+
+

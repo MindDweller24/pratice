@@ -1,0 +1,52 @@
+"Selenium programming Questions ask any 5 programs (you can also ask other questions after completing this 5)----
+1.Write A Script to print all the links in amazon.in?
+2.WAS to print all the autosuggestion after typing selenium in google search text box?
+3.Write one POM class for LOgin to Actitime Application along with Testclass or main method class?
+4.WAS to take the screen shot of google.com?
+5.WAP to read the data from Excel?(just write no execution)
+6.WAS to print all the options of slv list box ?(give html code)
+7.WAS to print all the options of slv list box without duplicate?
+8.WAS to print all the options of slv list box only duplicates?
+9.WAS to print all the options of slv list box in alphabetic order?
+10.WAS to close all the browser without using quit method?"
+11.Write A Script to print all the url's of the all the links in amazon.in?
+12.WAS to select all the checkbox for any given web site?
+13.WAS to print all the content of the web table for any given web site?
+
+"Selenium theory Questions ask any 10 or all--- (you can also ask other questions after completing this)
+Ask them to show resume and Go through the resume
+1.Tell me about yourself
+2.Write and Explain the Frame Work which you have used in your project?
+3.what is the diff b/w FE and FE's
+4.what is the diff b/w IW and EW
+5.Sytax of IW and EW
+6.Methods of webdriver,WeBElement
+7.What is assertion?
+7.a.what is the diff b/w Assert and soft Asset
+8.what is data driven testing
+9.what is the POM
+10.what is TestNG
+11.what is Automation?And Advantages?
+12.what is selenium webdriver?
+13.Type of Frame Work available in the industry?
+14.How do you handle the frames in selenium?
+15.How do you handle Mouse hover in selenium?
+16.How do you handle Disabled Elements in selenium?
+17.When we stale Element Reference Exception and how do you handle it.explain with program?
+18.What are all the oops concept used in selenium?
+19.where have you used method overloading in selenium?
+20.where have you used method overridding in selenium?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
